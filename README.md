@@ -2,5 +2,5 @@
 
 ## Enlaces
 
-*  [Enunciado](https://github.com/mastery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
+*  [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
 
