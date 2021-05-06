@@ -18,7 +18,7 @@ $ git clone https://github.com/magistery-tps/aa-tp1.git
 $ cd aa-tp1
 ```
 
-**Paso 2**: Instalar anaconda (Necesario para instalar las dependencias del proyecto).
+**Paso 2**: Instalar [anaconda](https://www.anaconda.com/products/individual) (Necesario para instalar las dependencias del proyecto).
 
 ```bash
 $ wget http://repo.continuum.io/archive/Anaconda3-5.0.0-Linux-x86_64.sh
