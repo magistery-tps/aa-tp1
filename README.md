@@ -2,18 +2,23 @@
 
 ## Enlaces
 
-*  [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
+* [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
+* [Notebook](https://github.com/magistery-tps/aa-tp1/blob/main/notebooks/tp1.ipynb)
+* [Calcular correlación numéricas vs. categóricas](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365)
+* [Balancear los datos: se pueden duplicar las instancias, pero hay distintos métodos
+](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
+* [FBeta: pondera de acuerdo al beta el peso de recall y precision](https://medium.com/@douglaspsteen/beyond-the-f-1-score-a-look-at-the-f-beta-score-3743ac2ef6e3)
 
 ## Instalacion
 
 **Paso 1**: Descargar el repositorio.
 
 ```bash
-$ https://github.com/magistery-tps/aa-tp1.git
+$ git clone https://github.com/magistery-tps/aa-tp1.git
 $ cd aa-tp1
 ```
 
-**Paso 2**: Instalar anaconda (Necesario para instalar las depedencias del proyecto).
+**Paso 2**: Instalar anaconda (Necesario para instalar las dependencias del proyecto).
 
 ```bash
 $ wget http://repo.continuum.io/archive/Anaconda3-5.0.0-Linux-x86_64.sh
@@ -21,7 +26,7 @@ $ sh Anaconda3-5.0.0-Linux-x86_64.sh
 $ source ~/.bashrc  (o source ~/.zshrc)
 ```
 
-**Paso 3**: Crear environment de depedencias para el proyecto (Parado en el directorio del proyecto).
+**Paso 3**: Crear environment de dependencias para el proyecto (Parado en el directorio del proyecto).
 
 ```bash
 $ conda env create -f environment.yml
@@ -29,7 +34,7 @@ $ conda env create -f environment.yml
 
 ## Comenzar a desarrollar
 
-**Paso 1**: Activamos el entorno donde se encuentran instaladas las depedencias del proyecto.
+**Paso 1**: Activamos el entorno donde se encuentran instaladas las dependencias del proyecto.
 
 ```bash
 $ activate aa-tp1
@@ -39,9 +44,13 @@ $ activate aa-tp1
 
 ```bash
 $ jupyter lab
+
+Jupyter Notebook 6.1.4 is running at:
+http://localhost:8888/?token=45efe99607fa6......
 ```
 
 **Paso 3**: Ir a http://localhost:8888.... como se indica en la consola.
+
 
 
 
