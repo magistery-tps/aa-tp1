@@ -1,13 +1,16 @@
 # Aprendizaje Automatico - TP 1
 
-## Enlaces
-
 * [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
 * [Notebook](https://github.com/magistery-tps/aa-tp1/blob/main/notebooks/tp1.ipynb)
+
+## Enlaces
+
+* [Abrir Notebooks en github desde colab](https://youtu.be/jjdBbqV7q8s)
 * [Calcular correlación numéricas vs. categóricas](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365)
 * [Balancear los datos: se pueden duplicar las instancias, pero hay distintos métodos
 ](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
 * [FBeta: pondera de acuerdo al beta el peso de recall y precision](https://medium.com/@douglaspsteen/beyond-the-f-1-score-a-look-at-the-f-beta-score-3743ac2ef6e3)
+
 
 ## Instalacion
 
@@ -50,10 +53,3 @@ http://localhost:8888/?token=45efe99607fa6......
 ```
 
 **Paso 3**: Ir a http://localhost:8888.... como se indica en la consola.
-
-
-
-
-
-
-
