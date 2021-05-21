@@ -10,7 +10,7 @@
 * [Balancear los datos: se pueden duplicar las instancias, pero hay distintos métodos
 ](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
 * [FBeta: pondera de acuerdo al beta el peso de recall y precision](https://medium.com/@douglaspsteen/beyond-the-f-1-score-a-look-at-the-f-beta-score-3743ac2ef6e3)
-
+* [SMOTE for Imbalanced Classification with Python](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification)
 
 ## Instalacion
 
@@ -35,6 +35,14 @@ $ source ~/.bashrc  (o source ~/.zshrc)
 $ conda env create -f environment.yml
 ```
 
+## Actualizar dependencias
+
+Si agregamos nuevas dependencias en `environment.yml` para instalarlas es necesario correr el siguiente comando:
+
+```bash
+$ conda env update -f environment.yml
+```
+
 ## Comenzar a desarrollar
 
 **Paso 1**: Activamos el entorno donde se encuentran instaladas las dependencias del proyecto.
@@ -53,3 +61,13 @@ http://localhost:8888/?token=45efe99607fa6......
 ```
 
 **Paso 3**: Ir a http://localhost:8888.... como se indica en la consola.
+
+
+## Tema Material Darker para Jupyter Lab
+
+**Paso 1**: Isntalar tema.
+```bash
+$ jupyter labextension install @oriolmirosa/jupyterlab_materialdarker
+```
+
+**Paso 2**: Reiniciar Jupyter Lab
