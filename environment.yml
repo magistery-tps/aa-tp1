@@ -9,6 +9,8 @@ dependencies:
     - pandas
     - jupyterlab
     - scikit-learn
+    - six
+    - pydotplus
     - pip
     - pip:
       - imbalanced-learn

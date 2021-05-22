@@ -35,6 +35,17 @@ $ source ~/.bashrc  (o source ~/.zshrc)
 $ conda env create -f environment.yml
 ```
 
+**Nota**: Se peude [mamba](https://github.com/mamba-org/mamba) en vez de conda. Mamba es 100 veces mas rapido que conda.
+
+```bash
+$ conda install mamba
+```
+
+```bash
+$ mamba env create -f environment.yml
+```
+
+
 ## Actualizar dependencias
 
 Si agregamos nuevas dependencias en `environment.yml` para instalarlas es necesario correr el siguiente comando:
@@ -65,7 +76,7 @@ http://localhost:8888/?token=45efe99607fa6......
 
 ## Tema Material Darker para Jupyter Lab
 
-**Paso 1**: Isntalar tema.
+**Paso 1**: Instalar tema.
 ```bash
 $ jupyter labextension install @oriolmirosa/jupyterlab_materialdarker
 ```
