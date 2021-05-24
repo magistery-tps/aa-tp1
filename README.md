@@ -1,7 +1,7 @@
 # Aprendizaje Automatico - TP 1
 
 * [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
-* [Notebook](https://github.com/magistery-tps/aa-tp1/blob/main/notebooks/tp1.ipynb)
+* [Notebook Compartida](https://colab.research.google.com/drive/1PEmL3JrFz0sNBr0mBe66-Oypu_uQDGxq?usp=sharing)
 
 ## Enlaces
 
