@@ -2,6 +2,7 @@
 
 * [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
 * [Notebook Compartida](https://colab.research.google.com/drive/1PEmL3JrFz0sNBr0mBe66-Oypu_uQDGxq?usp=sharing)
+* [Informe](https://docs.google.com/document/d/1T5EH92UMkiZSpHRACrFP6qnN6V1sjHIr50D_PFDrc6Q/edit?ts=60b0493f)
 
 ## Enlaces
 
