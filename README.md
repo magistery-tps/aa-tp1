@@ -1,8 +1,8 @@
 # Aprendizaje Automatico - TP 1
 
 * [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
-* [Resolución TP 2](https://github.com/magistery-tps/aa-tp1/blob/main/notebooks/resolucion-tp-1.ipynb)
-* [Resolución TP 2 (Colab)](https://colab.research.google.com/drive/1j79OzT09B4U0a2At_THHrJNCFmM_NdBK#scrollTo=eMTbepjq3KHu)
+* [Resolución TP 1](https://github.com/magistery-tps/aa-tp1/blob/main/notebooks/resolucion-tp-1.ipynb)
+* [Resolución TP 1 (Colab)](https://colab.research.google.com/drive/1j79OzT09B4U0a2At_THHrJNCFmM_NdBK#scrollTo=eMTbepjq3KHu)
 * [Informe](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Aprendizaje%20Automatico%20-%20TP%20N%C2%B01.pdf)
 
 ## Enlaces
