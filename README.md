@@ -3,7 +3,7 @@
 * [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
 * [Notebook](https://github.com/magistery-tps/aa-tp1/blob/main/notebooks/tp1.ipynb)
 * [Notebook (Colab)](https://colab.research.google.com/drive/1j79OzT09B4U0a2At_THHrJNCFmM_NdBK#scrollTo=eMTbepjq3KHu)
-* [Informe](https://docs.google.com/document/d/1T5EH92UMkiZSpHRACrFP6qnN6V1sjHIr50D_PFDrc6Q/edit?ts=60b0493f)
+* [Informe](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Aprendizaje%20Automatico%20-%20TP%20N%C2%B01.pdf)
 
 ## Enlaces
 
