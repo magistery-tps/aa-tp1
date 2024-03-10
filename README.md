@@ -1,4 +1,8 @@
-# Aprendizaje Automatico - TP 1
+<p align="left">
+<b>University of Buenos Aires (UBA)</br>Master in Data Mining and Knowledge Discovery<br/>Aprendizaje Automatico</b>
+</p>
+
+#  Trabajo Practico 1
 
 * [Enunciado](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Enunciado.pdf)
 * [Informe](https://github.com/magistery-tps/aa-tp1/blob/main/docs/Aprendizaje%20Automatico%20-%20TP%20N%C2%B01.pdf)
